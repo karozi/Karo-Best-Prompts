@@ -19,7 +19,8 @@ Every prompt here has been:
 ## 📂 Structure
 ```text
 /prompts
-  ├── karo_giga_prd_generator.md      # Full PRD builder 
+  ├── karo_giga_prd_generator.md      # Full PRD builder, 188 lines
+  ├── implementation_plan_for_prd.md  # Implementation plan builder, 228 lines
   ├── prompt_builder.md               # Create new prompts from scratch with my system
   ├── prompt_evaluator.md             # Score & refine prompts for clarity, depth, and accuracy
   ├── replit_anti_loop_regression.md  # Diagnostic prompt to prevent looping & regressions
