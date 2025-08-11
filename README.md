@@ -15,7 +15,6 @@ Every prompt here has been:
 
 🛠 Built to be remixed — plug them into ChatGPT, Claude, Replit Agents and other tools.
 
-## 📂 Structure
 
 ## 📂 Structure
 ```text
