@@ -1,5 +1,7 @@
+```markdown
+# 🚀 Karo's Implementation Plan for PRD: [PRD Title]. (Enhanced Edition, 228 lines). 
 
-# 🚀 Karo's Implementation Plan for PRD: [PRD Title]. (Enhanced Edition, 228 lines). Feel free to reuse with credit (https://karozieminski.substack.com/).
+Feel free to reuse with credit (https://karozieminski.substack.com/).
 
 ## 0. Meta
 - **Linked PRD:** [Insert link or reference to PRD doc]
@@ -227,3 +229,4 @@
 | Date       | Version | Changes | Author |
 |------------|---------|---------|--------|
 | YYYY-MM-DD | 1.0     | Initial draft | PM   |
+```
