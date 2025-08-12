@@ -1,4 +1,6 @@
-# 📝 Karo's PRD Builder + Quality Check + AI Gap Scanner (Enhanced Edition, 188 lines). Feel free to reuse with credit (https://karozieminski.substack.com/).
+```markdown
+# 📝 Karo's PRD Builder + Quality Check + AI Gap Scanner (Enhanced Edition, 188 lines).
+Feel free to reuse with credit (https://karozieminski.substack.com/).
 
 
 ## ROLE
