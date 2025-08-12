@@ -2,7 +2,7 @@
 
 **💡 Before you start:**
 
-- This is the first prompt in a two-prompt system. Use it together with prompt_evaluator.md for best results. See [instructions](https://karozieminski.substack.com/p/the-self-improving-prompt-system?open=false#%C2%A7step-your-prompt-evaluator).
+- This is the first prompt in a two-prompt system. Use it together with prompt_evaluator.md for best results. See [instructions](https://karozieminski.substack.com/p/the-self-improving-prompt-system).
 
 ---
 
